@@ -1,5 +1,3 @@
 node_modules/
 dist/
 .media-tools/
-
-site-deploy.tar.gz

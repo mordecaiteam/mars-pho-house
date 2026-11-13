@@ -164,4 +164,3 @@ footer { color: #f5f5e7; background: #202a20; }
   .waiting { opacity: 1; transform: none; }
   .review-card[aria-hidden="true"] { display: none; }
 }
-
